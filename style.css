@@ -1,26 +1,38 @@
-.kilo-mile{
-    background-color: #1abc9c;
-    border-radius: 5px;
-    margin-top: 20px;
-    display: block;
+.input-design {
+	border-radius: 5px;
+	margin-top: 20px;
+	display: block;
 }
-#kilo-mile-done{
-    color: #fff;
-    background-color: #000;
-    display: none;
-    border-radius: 5px;
-    margin-top: 20px;
+.output-design {
+	display: none;
+	border-radius: 5px;
+	margin-top: 20px;
 }
-.mile-kilo{
-    background-color: #2ecc71;
-    border-radius: 5px;
-    margin-top: 50px;
-    display: block;
+.kilo-mile {
+	background-color: #1abc9c;
 }
-#mile-kilo-done{
-    display: none;
-    border-radius: 5px;
-    margin-top: 50px;
-    background-color: tomato;
-    color: #fff;
+#kilo-mile-done {
+	color: #fff;
+	background-color: #000;
+}
+.mile-kilo {
+	background-color: #2ecc71;
+}
+#mile-kilo-done {
+	background-color: tomato;
+	color: #fff;
+}
+.inch-cent {
+	background-color: #f6e58d;
+}
+#inch-cent-done {
+	background-color: #95afc0;
+	color: #000;
+}
+.cent-inch {
+	background-color: #7ed6df;
+}
+#cent-inch-done {
+	background-color: #e056fd;
+	color: #000;
 }
