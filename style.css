@@ -1,0 +1,26 @@
+.kilo-mile{
+    background-color: #1abc9c;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: block;
+}
+#kilo-mile-done{
+    color: #fff;
+    background-color: #000;
+    display: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.mile-kilo{
+    background-color: #2ecc71;
+    border-radius: 5px;
+    margin-top: 50px;
+    display: block;
+}
+#mile-kilo-done{
+    display: none;
+    border-radius: 5px;
+    margin-top: 50px;
+    background-color: tomato;
+    color: #fff;
+}
